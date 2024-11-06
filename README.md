@@ -4,4 +4,4 @@ This is my first repository.
 
 ## Sub header
 
-Watched a YouTube video
+Watched a YouTube video.
